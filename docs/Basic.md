@@ -33,6 +33,8 @@ Lipid peroxidation occurs when free radicals target polyunsaturated fatty acids 
 
 Our bodies rely on a combination of endogenous (produced internally) and dietary (consumed through food) antioxidants. Natural antioxidants are found in many fruits, vegetables, cereals, and teas — and notably, in red wine, thanks to compounds derived from grape skins and seeds.
 
+![source](assets/source.PNG)
+
 **Key dietary antioxidants include:**
 
 - Vitamin C (ascorbic acid)  

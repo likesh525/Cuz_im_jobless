@@ -12,7 +12,7 @@ theme:
 
     # Palette toggle for light mode
     - scheme: default
-      primary: indigo
+      primary: red
       toggle:
         icon: material/toggle-switch
 
@@ -38,6 +38,7 @@ nav:
   - Home: index.md
   - Basic: Basic.md
   - Health: health.md
+  - Conclusion: conclusion.md
   - Reference: biblio.md
 
 extra:

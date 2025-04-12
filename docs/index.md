@@ -1,19 +1,28 @@
 # **Welcome to the Wine Health Review**
-We all have that one person who keeps bragging about how healthy wine is and why everyone should drink it. If you've wondered whether your friend is right... or maybe just an alcoholic, this review paper is here to help!
 
-## **Why do we do this?**
-As you can imagine, I have a friend who wants to drink wine guilt-free. Since I’m currently jobless, I figured this would be a fun way to spend a Friday evening.
+You must be thinking — what's the purpose of this? Well, I don't know.  
+My friend was bragging about visiting a vineyard and how good the wine was, and how *healthy* it is.
 
-### **Who is Gwen?**
-**Oh, I’m glad you asked.** Meet **Ms. Gwen**—the superhero Baguio didn’t know it needed. By day, she’s a mild-mannered overachiever, top of her class but humble about it. But by night? She’s out there fighting crime, rescuing cats from trees, and making sure everyone gets their groceries delivered on time.
+No issues — but dude is using health as a reason to drink wine.  
+Bro is an alcoholic and we all know it.
 
-![gwen](assets/gwen.PNG)
-You might be thinking, “But... she looks so tiny!”   
----  
+## **How jobless am I?**
+
+That's a question I ask myself.  
+I have nothing better to do on a Saturday night.  
+Well, take a peek if you want to.
+
+### **Anyhow, I have a favour to ask**
+
+Look at the image below and tell me she is *not* suffocating the poor cat...  
+I say she is, and she’s denying it, saying she’s “petting it.”
+
+---
+
 ![cat](assets/cat.PNG)
-or why does it look like, 'She is about to choke that cat'  
 
-To which we say...
+Or why does it look like, *she's about to choke that cat?*  
 
-“Let’s ask her!”
+> ###### Incase you're wondering when it wrote this, today is 12.04.2025
+
 
