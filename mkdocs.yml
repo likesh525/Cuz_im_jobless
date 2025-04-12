@@ -1,0 +1,44 @@
+site_name: Is Wine Really Healthy?
+site_url: https://github.com/likesh525/Cuz_im_jobless
+
+theme:
+  name: material
+
+
+  font:
+    text: Roboto
+
+  palette:
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/toggle-switch
+
+
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: grey
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+  features:
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.footer
+
+nav:
+  - Home: index.md
+  - Basic: Basic.md
+  - Health: health.md
+  - Reference: biblio.md
+
+extra:
+  generator: false
